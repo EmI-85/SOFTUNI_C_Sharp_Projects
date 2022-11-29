@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.idea/
+bin
+obj
+.vs
